@@ -1,20 +1,21 @@
 # Fun_Facts_Generator
 
-Project Title: Fun Facts Generator
+Project Title: "Fun Facts Generator"
 
-Project Overview: The Fun Fact Generator is a simple and fun website that provides users with interesting and surprising facts at the click of a button. It’s designed to spark curiosity, entertain, and share quick bits of knowledge on a variety of topics. With a clean and user-friendly interface, the website makes discovering fun facts easy and enjoyable for everyone.
+Project Overview: 
+            The Fun Fact Generator is a simple and fun website that provides users with interesting and surprising facts at the click of a button. It’s designed to spark curiosity, entertain, and share quick bits of knowledge on a variety of topics. With a clean and user-friendly interface, the website makes discovering fun facts easy and enjoyable for everyone.
 
 Key Features:
   
    Random Fact Generation: Get a new and unique fact with just one click.
  
-  Wide Variety of Topics: Discover facts about science, history, nature, and more.
+   Wide Variety of Topics: Discover facts about science, history, nature, and more.
  
-  Easy-to-Use Interface: Simple design for a seamless user experience.
+   Easy-to-Use Interface: Simple design for a seamless user experience.
   
-  Shareable Content: Easily share your favorite facts with friends on social media.
+   Shareable Content: Easily share your favorite facts with friends on social media.
   
-  Mobile-Friendly: Optimized for use on both desktop and mobile devices.
+   Mobile-Friendly: Optimized for use on both desktop and mobile devices.
 
 Tech Stack:
   
